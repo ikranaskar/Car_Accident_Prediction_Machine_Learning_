@@ -1,4 +1,4 @@
-# Car_Accident_Prediction_Machine_Learning_
+# Car Accident Prediction Machine Learning
 
 # Data description
 Road accidents are one of the major causes of unnatural deaths around the world. We used Machine Learning with the objecting of measuring how influential certain factors can be in accidents taking place in the hopes of reducing the amount and severity in the future.
